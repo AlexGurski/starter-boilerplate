@@ -1,6 +1,21 @@
 {
     "home": "Accueil",
-    
+    "dashboard": "Tableau de bord",
+    "catalog": "Catalogue",
+    "orders": "Commandes",
+    "clients": "Clients",
+    "clientList": "Liste des clients",
+    "clientGroup": "Groupe de clients",
+    "banners": "Bannières",
+    "promoCodes": "Codes promo",
+    "offlinePlaces": "Lieux hors ligne",
+    "employee": "Employé",
+    "mailing": "Envoi de courrier",
+    "system": "Système",
+    "settings": "Paramètres",
+    "mobile": "Mobile",
+    "logs": "Journaux",
+
     "sidenav.dashboard": "Tableau de bord",
     "sidenav.dashboard.default": "Défaut",
     "sidenav.dashboard.analytic": "Analytique",

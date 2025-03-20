@@ -1,6 +1,21 @@
 {
     "home": "ホームページ",
-    
+    "dashboard": "ダッシュボード",
+    "catalog": "カタログ",
+    "orders": "注文",
+    "clients": "クライアント",
+    "clientList": "クライアントリスト",
+    "clientGroup": "クライアントグループ",
+    "banners": "バナー",
+    "promoCodes": "プロモコード",
+    "offlinePlaces": "オフラインの場所",
+    "employee": "従業員",
+    "mailing": "メール送信",
+    "system": "システム",
+    "settings": "設定",
+    "mobile": "モバイル",
+    "logs": "ログ",
+
     "sidenav.dashboard": "ダッシュボード",
     "sidenav.dashboard.default": "既定",
     "sidenav.dashboard.analytic": "分析",
